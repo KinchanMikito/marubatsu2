@@ -70,7 +70,7 @@
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="titleMarubatsuPattern6.png" translatesAutoresizingMaskIntoConstraints="NO" id="nX8-jl-Rrh">
                                 <rect key="frame" x="10" y="28" width="299" height="195"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="notification.png" translatesAutoresizingMaskIntoConstraints="NO" id="rmK-X3-CFf">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="notificationIcon.png" translatesAutoresizingMaskIntoConstraints="NO" id="rmK-X3-CFf">
                                 <rect key="frame" x="286" y="417" width="23" height="23"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="shitano.png" translatesAutoresizingMaskIntoConstraints="NO" id="Me8-Pe-9aW">
@@ -635,7 +635,7 @@
         <image name="cardFuchi.png" width="50" height="70"/>
         <image name="chalk7.png" width="1000" height="1000"/>
         <image name="kokubankeshi.png" width="2000" height="1000"/>
-        <image name="notification.png" width="300" height="300"/>
+        <image name="notificationIcon.png" width="300" height="300"/>
         <image name="p2button.png" width="2000" height="500"/>
         <image name="player1button.png" width="2000" height="500"/>
         <image name="shitano.png" width="3200" height="1000"/>

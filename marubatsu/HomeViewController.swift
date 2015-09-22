@@ -27,7 +27,7 @@ class HomeViewController: UIViewController,GADBannerViewDelegate, GADInterstitia
         self.view.addSubview(bannerView)
         
         if newRecord == true{
-            notificationIcon.image = UIImage(named: "notification")
+            notificationIcon.image = UIImage(named: "notificationIcon")
         }else{
             notificationIcon.image = nil
         }
