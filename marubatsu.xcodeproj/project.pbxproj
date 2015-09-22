@@ -37,7 +37,6 @@
 		EA6FE7DA1B58DF2000D09C82 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA6FE7D91B58DF2000D09C82 /* StoreKit.framework */; };
 		EA79BFF61B3D0586002CBAFF /* vsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA79BFF51B3D0586002CBAFF /* vsViewController.swift */; };
 		EAE1BFDF1B353FD20059DFFD /* RankingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */; };
-		EAE9AF5E1B9445D600F99FD1 /* bombStartButton.png in Resources */ = {isa = PBXBuildFile; fileRef = EAE9AF5D1B9445D600F99FD1 /* bombStartButton.png */; };
 		EAE9AF761BA0341100F99FD1 /* titleMarubatsuPattern6.png in Resources */ = {isa = PBXBuildFile; fileRef = EAE9AF751BA0341100F99FD1 /* titleMarubatsuPattern6.png */; };
 /* End PBXBuildFile section */
 
@@ -88,7 +87,6 @@
 		EA6FE7D91B58DF2000D09C82 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		EA79BFF51B3D0586002CBAFF /* vsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vsViewController.swift; sourceTree = "<group>"; };
 		EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RankingViewController.swift; sourceTree = "<group>"; };
-		EAE9AF5D1B9445D600F99FD1 /* bombStartButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bombStartButton.png; sourceTree = "<group>"; };
 		EAE9AF751BA0341100F99FD1 /* titleMarubatsuPattern6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = titleMarubatsuPattern6.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -155,7 +153,6 @@
 		EA1290CC1B0F5AD700C95C12 /* marubatsu */ = {
 			isa = PBXGroup;
 			children = (
-				EAE9AF5D1B9445D600F99FD1 /* bombStartButton.png */,
 				EA1290CF1B0F5AD700C95C12 /* AppDelegate.swift */,
 				EA422C5D1B47B4E90008C87E /* HomeViewController.swift */,
 				EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */,
@@ -293,7 +290,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA1290D51B0F5AD700C95C12 /* Main.storyboard in Resources */,
-				EAE9AF5E1B9445D600F99FD1 /* bombStartButton.png in Resources */,
 				EA6CA55A1BB10A8A000EA920 /* standardbutton.png in Resources */,
 				EA6CA55E1BB10AAB000EA920 /* chalk7.png in Resources */,
 				EA6CA5551BB10A3E000EA920 /* p1button.png in Resources */,
