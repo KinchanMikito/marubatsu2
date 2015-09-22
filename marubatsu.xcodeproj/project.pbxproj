@@ -34,6 +34,17 @@
 		EA6CA5611BB15203000EA920 /* player1button.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5601BB15203000EA920 /* player1button.png */; };
 		EA6CA5651BB15710000EA920 /* shitano.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5641BB15710000EA920 /* shitano.png */; };
 		EA6CA5671BB16052000EA920 /* notificationIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5661BB16052000EA920 /* notificationIcon.png */; };
+		EA6CA5691BB16216000EA920 /* figure_ta-da.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5681BB16216000EA920 /* figure_ta-da.png */; };
+		EA6CA56B1BB16240000EA920 /* omocha_robot.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA56A1BB16240000EA920 /* omocha_robot.png */; };
+		EA6CA56D1BB162ED000EA920 /* 2pmaru.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA56C1BB162ED000EA920 /* 2pmaru.png */; };
+		EA6CA56F1BB16DA7000EA920 /* 2pbatsu.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA56E1BB16DA7000EA920 /* 2pbatsu.png */; };
+		EA6CA5711BB171FA000EA920 /* 1pme.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5701BB171FA000EA920 /* 1pme.png */; };
+		EA6CA5731BB173B8000EA920 /* ueno.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5721BB173B8000EA920 /* ueno.png */; };
+		EA6CA5751BB178C9000EA920 /* kokubankeshiModoru.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5741BB178C9000EA920 /* kokubankeshiModoru.png */; };
+		EA6CA5771BB17EE6000EA920 /* buttonp1.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5761BB17EE6000EA920 /* buttonp1.png */; };
+		EA6CA5791BB17F22000EA920 /* buttonp1.2.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5781BB17F22000EA920 /* buttonp1.2.png */; };
+		EA6CA57B1BB17F6E000EA920 /* buttonp1-3.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA57A1BB17F6E000EA920 /* buttonp1-3.png */; };
+		EA6CA57D1BB17FA4000EA920 /* buttonp1-4.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA57C1BB17FA4000EA920 /* buttonp1-4.png */; };
 		EA6FE7DA1B58DF2000D09C82 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA6FE7D91B58DF2000D09C82 /* StoreKit.framework */; };
 		EA79BFF61B3D0586002CBAFF /* vsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA79BFF51B3D0586002CBAFF /* vsViewController.swift */; };
 		EAE1BFDF1B353FD20059DFFD /* RankingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */; };
@@ -84,6 +95,17 @@
 		EA6CA5601BB15203000EA920 /* player1button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player1button.png; sourceTree = "<group>"; };
 		EA6CA5641BB15710000EA920 /* shitano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shitano.png; sourceTree = "<group>"; };
 		EA6CA5661BB16052000EA920 /* notificationIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = notificationIcon.png; sourceTree = "<group>"; };
+		EA6CA5681BB16216000EA920 /* figure_ta-da.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "figure_ta-da.png"; sourceTree = "<group>"; };
+		EA6CA56A1BB16240000EA920 /* omocha_robot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = omocha_robot.png; sourceTree = "<group>"; };
+		EA6CA56C1BB162ED000EA920 /* 2pmaru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2pmaru.png; sourceTree = "<group>"; };
+		EA6CA56E1BB16DA7000EA920 /* 2pbatsu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2pbatsu.png; sourceTree = "<group>"; };
+		EA6CA5701BB171FA000EA920 /* 1pme.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1pme.png; sourceTree = "<group>"; };
+		EA6CA5721BB173B8000EA920 /* ueno.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ueno.png; sourceTree = "<group>"; };
+		EA6CA5741BB178C9000EA920 /* kokubankeshiModoru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kokubankeshiModoru.png; sourceTree = "<group>"; };
+		EA6CA5761BB17EE6000EA920 /* buttonp1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttonp1.png; sourceTree = "<group>"; };
+		EA6CA5781BB17F22000EA920 /* buttonp1.2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttonp1.2.png; sourceTree = "<group>"; };
+		EA6CA57A1BB17F6E000EA920 /* buttonp1-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "buttonp1-3.png"; sourceTree = "<group>"; };
+		EA6CA57C1BB17FA4000EA920 /* buttonp1-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "buttonp1-4.png"; sourceTree = "<group>"; };
 		EA6FE7D91B58DF2000D09C82 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		EA79BFF51B3D0586002CBAFF /* vsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vsViewController.swift; sourceTree = "<group>"; };
 		EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RankingViewController.swift; sourceTree = "<group>"; };
@@ -170,6 +192,17 @@
 				EA6CA5601BB15203000EA920 /* player1button.png */,
 				EA6CA5641BB15710000EA920 /* shitano.png */,
 				EA6CA5661BB16052000EA920 /* notificationIcon.png */,
+				EA6CA5681BB16216000EA920 /* figure_ta-da.png */,
+				EA6CA56A1BB16240000EA920 /* omocha_robot.png */,
+				EA6CA56C1BB162ED000EA920 /* 2pmaru.png */,
+				EA6CA56E1BB16DA7000EA920 /* 2pbatsu.png */,
+				EA6CA5701BB171FA000EA920 /* 1pme.png */,
+				EA6CA5721BB173B8000EA920 /* ueno.png */,
+				EA6CA5741BB178C9000EA920 /* kokubankeshiModoru.png */,
+				EA6CA5761BB17EE6000EA920 /* buttonp1.png */,
+				EA6CA5781BB17F22000EA920 /* buttonp1.2.png */,
+				EA6CA57A1BB17F6E000EA920 /* buttonp1-3.png */,
+				EA6CA57C1BB17FA4000EA920 /* buttonp1-4.png */,
 				EA6CA55F1BB10ABC000EA920 /* KodomoRounded-Light.otf */,
 				EA1290D61B0F5AD700C95C12 /* Images.xcassets */,
 				EA1290D81B0F5AD700C95C12 /* LaunchScreen.xib */,
@@ -289,19 +322,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA6CA5711BB171FA000EA920 /* 1pme.png in Resources */,
 				EA1290D51B0F5AD700C95C12 /* Main.storyboard in Resources */,
+				EA6CA5791BB17F22000EA920 /* buttonp1.2.png in Resources */,
 				EA6CA55A1BB10A8A000EA920 /* standardbutton.png in Resources */,
 				EA6CA55E1BB10AAB000EA920 /* chalk7.png in Resources */,
 				EA6CA5551BB10A3E000EA920 /* p1button.png in Resources */,
+				EA6CA56D1BB162ED000EA920 /* 2pmaru.png in Resources */,
+				EA6CA5771BB17EE6000EA920 /* buttonp1.png in Resources */,
+				EA6CA5751BB178C9000EA920 /* kokubankeshiModoru.png in Resources */,
 				EA1FE5FC1B1008F100BB8A6B /* cardFuchi.png in Resources */,
 				EA1290DA1B0F5AD700C95C12 /* LaunchScreen.xib in Resources */,
 				EA6CA5651BB15710000EA920 /* shitano.png in Resources */,
 				EA1290D71B0F5AD700C95C12 /* Images.xcassets in Resources */,
+				EA6CA57B1BB17F6E000EA920 /* buttonp1-3.png in Resources */,
 				EA6CA5581BB10A70000EA920 /* kokubankeshi.png in Resources */,
+				EA6CA57D1BB17FA4000EA920 /* buttonp1-4.png in Resources */,
 				EA6CA5561BB10A3E000EA920 /* p2button.png in Resources */,
+				EA6CA5731BB173B8000EA920 /* ueno.png in Resources */,
+				EA6CA56F1BB16DA7000EA920 /* 2pbatsu.png in Resources */,
+				EA6CA56B1BB16240000EA920 /* omocha_robot.png in Resources */,
 				EA6CA5611BB15203000EA920 /* player1button.png in Resources */,
 				EAE9AF761BA0341100F99FD1 /* titleMarubatsuPattern6.png in Resources */,
 				EA6CA5671BB16052000EA920 /* notificationIcon.png in Resources */,
+				EA6CA5691BB16216000EA920 /* figure_ta-da.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

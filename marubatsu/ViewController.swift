@@ -336,7 +336,7 @@ class ViewController: UIViewController ,GADBannerViewDelegate ,GADInterstitialDe
         }
         
         
-        scoreLab.text = String("\(myScore) : \(CPUScore)")
+        scoreLab.text = String("\(myScore):\(CPUScore)")
         
         
         if myScore == 5 && isAITurn == false{
@@ -1358,7 +1358,7 @@ class ViewController: UIViewController ,GADBannerViewDelegate ,GADInterstitialDe
         
         myScore = 0
         CPUScore = 0
-        scoreLab.text = String("\(myScore) : \(CPUScore)")
+        scoreLab.text = String("\(myScore):\(CPUScore)")
         
     }
     
@@ -1399,8 +1399,6 @@ class ViewController: UIViewController ,GADBannerViewDelegate ,GADInterstitialDe
                     
                     new = true
                     
-                    println("DONEEASY")
-                    
                     break
                     
                 }
@@ -1438,8 +1436,6 @@ class ViewController: UIViewController ,GADBannerViewDelegate ,GADInterstitialDe
                     
                     new = true
                     
-                    println("DONENORMAL")
-                    
                     break
                     
                 }
@@ -1476,8 +1472,6 @@ class ViewController: UIViewController ,GADBannerViewDelegate ,GADInterstitialDe
                     newRecord = true
                     
                     new = true
-                    
-                    println("DONEHARD")
                     
                     break
                     

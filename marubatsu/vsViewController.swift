@@ -56,7 +56,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[0] = true
-                lab0.text = "◯"
+                lab0.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -89,7 +89,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[8] = true
-                lab8.text = "◯"
+                lab8.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -122,7 +122,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[1] = true
-                lab1.text = "◯"
+                lab1.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -155,7 +155,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[2] = true
-                lab2.text = "◯"
+                lab2.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -188,7 +188,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[3] = true
-                lab3.text = "◯"
+                lab3.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -221,7 +221,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[4] = true
-                lab4.text = "◯"
+                lab4.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -254,7 +254,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[5] = true
-                lab5.text = "◯"
+                lab5.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -287,7 +287,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[6] = true
-                lab6.text = "◯"
+                lab6.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
@@ -320,7 +320,7 @@ class vsViewController: UIViewController ,GADBannerViewDelegate{
             
             if isTurnOf1 == true{
                 squares[7] = true
-                lab7.text = "◯"
+                lab7.text = "0"
                 if p1Array[2] != 100{
                     jikeshi()
                     squares[p1Array[2]] = nil
