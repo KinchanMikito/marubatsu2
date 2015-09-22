@@ -26,7 +26,6 @@
 		EA422C5E1B47B4E90008C87E /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA422C5D1B47B4E90008C87E /* HomeViewController.swift */; };
 		EA422C611B47B9D10008C87E /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA422C601B47B9D10008C87E /* GoogleMobileAds.framework */; };
 		EA6CA54E1BB0F99C000EA920 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA6CA54D1BB0F99C000EA920 /* Social.framework */; };
-		EA6CA5501BB0FE22000EA920 /* notification.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA54F1BB0FE22000EA920 /* notification.png */; };
 		EA6CA5551BB10A3E000EA920 /* p1button.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5531BB10A3E000EA920 /* p1button.png */; };
 		EA6CA5561BB10A3E000EA920 /* p2button.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5541BB10A3E000EA920 /* p2button.png */; };
 		EA6CA5581BB10A70000EA920 /* kokubankeshi.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5571BB10A70000EA920 /* kokubankeshi.png */; };
@@ -34,6 +33,7 @@
 		EA6CA55E1BB10AAB000EA920 /* chalk7.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA55D1BB10AAB000EA920 /* chalk7.png */; };
 		EA6CA5611BB15203000EA920 /* player1button.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5601BB15203000EA920 /* player1button.png */; };
 		EA6CA5651BB15710000EA920 /* shitano.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5641BB15710000EA920 /* shitano.png */; };
+		EA6CA5671BB16052000EA920 /* notificationIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA5661BB16052000EA920 /* notificationIcon.png */; };
 		EA6FE7DA1B58DF2000D09C82 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EA6FE7D91B58DF2000D09C82 /* StoreKit.framework */; };
 		EA79BFF61B3D0586002CBAFF /* vsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA79BFF51B3D0586002CBAFF /* vsViewController.swift */; };
 		EAE1BFDF1B353FD20059DFFD /* RankingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */; };
@@ -75,7 +75,6 @@
 		EA422C5F1B47B6980008C87E /* AdMob-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AdMob-Bridging-Header.h"; sourceTree = "<group>"; };
 		EA422C601B47B9D10008C87E /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
 		EA6CA54D1BB0F99C000EA920 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
-		EA6CA54F1BB0FE22000EA920 /* notification.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = notification.png; path = "../../素材とか/notification.png"; sourceTree = "<group>"; };
 		EA6CA5531BB10A3E000EA920 /* p1button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = p1button.png; sourceTree = "<group>"; };
 		EA6CA5541BB10A3E000EA920 /* p2button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = p2button.png; sourceTree = "<group>"; };
 		EA6CA5571BB10A70000EA920 /* kokubankeshi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kokubankeshi.png; sourceTree = "<group>"; };
@@ -84,6 +83,7 @@
 		EA6CA55F1BB10ABC000EA920 /* KodomoRounded-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "KodomoRounded-Light.otf"; sourceTree = "<group>"; };
 		EA6CA5601BB15203000EA920 /* player1button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player1button.png; sourceTree = "<group>"; };
 		EA6CA5641BB15710000EA920 /* shitano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shitano.png; sourceTree = "<group>"; };
+		EA6CA5661BB16052000EA920 /* notificationIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = notificationIcon.png; sourceTree = "<group>"; };
 		EA6FE7D91B58DF2000D09C82 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		EA79BFF51B3D0586002CBAFF /* vsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vsViewController.swift; sourceTree = "<group>"; };
 		EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RankingViewController.swift; sourceTree = "<group>"; };
@@ -158,7 +158,6 @@
 				EAE1BFDE1B353FD20059DFFD /* RankingViewController.swift */,
 				EA1290D11B0F5AD700C95C12 /* ViewController.swift */,
 				EA79BFF51B3D0586002CBAFF /* vsViewController.swift */,
-				EA6CA54F1BB0FE22000EA920 /* notification.png */,
 				EA1FE5FB1B1008F100BB8A6B /* cardFuchi.png */,
 				EA1290D31B0F5AD700C95C12 /* Main.storyboard */,
 				EA422C5F1B47B6980008C87E /* AdMob-Bridging-Header.h */,
@@ -170,6 +169,7 @@
 				EA6CA55D1BB10AAB000EA920 /* chalk7.png */,
 				EA6CA5601BB15203000EA920 /* player1button.png */,
 				EA6CA5641BB15710000EA920 /* shitano.png */,
+				EA6CA5661BB16052000EA920 /* notificationIcon.png */,
 				EA6CA55F1BB10ABC000EA920 /* KodomoRounded-Light.otf */,
 				EA1290D61B0F5AD700C95C12 /* Images.xcassets */,
 				EA1290D81B0F5AD700C95C12 /* LaunchScreen.xib */,
@@ -294,7 +294,6 @@
 				EA6CA55E1BB10AAB000EA920 /* chalk7.png in Resources */,
 				EA6CA5551BB10A3E000EA920 /* p1button.png in Resources */,
 				EA1FE5FC1B1008F100BB8A6B /* cardFuchi.png in Resources */,
-				EA6CA5501BB0FE22000EA920 /* notification.png in Resources */,
 				EA1290DA1B0F5AD700C95C12 /* LaunchScreen.xib in Resources */,
 				EA6CA5651BB15710000EA920 /* shitano.png in Resources */,
 				EA1290D71B0F5AD700C95C12 /* Images.xcassets in Resources */,
@@ -302,6 +301,7 @@
 				EA6CA5561BB10A3E000EA920 /* p2button.png in Resources */,
 				EA6CA5611BB15203000EA920 /* player1button.png in Resources */,
 				EAE9AF761BA0341100F99FD1 /* titleMarubatsuPattern6.png in Resources */,
+				EA6CA5671BB16052000EA920 /* notificationIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
